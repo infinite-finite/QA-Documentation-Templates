@@ -30,3 +30,11 @@ The following templates can be found in the templates folder.
 ### 📕 Test Plan Template
 
 * Outlines the overall strategy, scope, objectives, resources & risks for testing something specific, such as a new function or feature, or for certain testing workflows, such as regression testing
+
+## Sample Files
+
+Navigate to the sample files folder to view the following examples of the forms of QA documentation.
+
+* Bug Report for Add to Cart Defect
+* Test Cases for Add to Cart
+* Traceability Matrix for Add to Cart
